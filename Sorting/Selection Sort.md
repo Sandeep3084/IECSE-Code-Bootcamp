@@ -3,6 +3,9 @@ Selection Sort is a comparison-based sorting algorithm. It sorts an array by rep
 1. First we find the smallest element and swap it with the first element. This way we get the smallest element at its correct position.
 2. Then we find the smallest among remaining elements (or second smallest) and swap it with the second element.
 3. We keep doing this until we get all elements moved to correct position.
+
+![image](https://github.com/user-attachments/assets/ae349bdd-141b-47eb-be04-ca3a464579bd)
+
 ```
 #include <iostream>
 using namespace std;
